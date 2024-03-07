@@ -1,6 +1,6 @@
 - 👋 Hi, my name is António Carreira
-- 👀 I’m interested in web development, WordPress, PHP, Javascript, jQuery
-- 🌱 I’m currently learning all I can!
+- 👀 I’m interested in web development, WordPress, PHP, Javascript
+- 🌱 I’m addicted to learning stuff.
 
 <!---
 StreetDog71/StreetDog71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
